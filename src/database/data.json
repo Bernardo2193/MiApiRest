@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"CategoriaDeItem": " Herramientas para el Hogar",
+		"Item ": "Martillo",
+		"Precio": "4500 pesos",
+		"Stock": "Disponible"
+	},
+	{
+		"id": 2,
+		"categoria": "Jardineria",
+		"tipoDeItem": "Filtro para Pileta",
+		"precio": "35000 Pesos",
+		"disponible": "Si"
+	},
+	{
+		"id": 3,
+		"categoria": "Jardineria",
+		"tipoDeItem": "Pala",
+		"precio": "9500 Pesos",
+		"disponible": "Si"
+	},
+	{
+		"id": 4,
+		"categoria": "Jardineria",
+		"tipoDeItem": "Carretilla",
+		"precio": "19000 Pesos",
+		"disponible": "Si"
+	},
+	{
+		"id": 5,
+		"categoria": "Herramientas",
+		"tipoDeItem": "Martillo",
+		"precio": "4000 Pesos",
+		"disponible": "Si"
+	},
+	{
+		"id": 6,
+		"categoria": "Herramientas",
+		"tipoDeItem": "Tenazas",
+		"precio": "3000 Pesos",
+		"disponible": "Si"
+	},
+	{
+		"id": 7,
+		"categoria": "Herramientas",
+		"tipoDeItem": "Destornillador",
+		"precio": "2000 Pesos",
+		"disponible": "Si"
+	}
+]
